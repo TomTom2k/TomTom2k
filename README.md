@@ -1,16 +1,27 @@
-### Hi there 👋
+### Personal Information
 
-<!--
-**TomTom2k/TomTom2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ***Full Name***: Nguyen Thanh Tin
 
-Here are some ideas to get you started:
+- ***Email***: ngthanhtin68@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ***PhoneNumber***: 0334127445
+
+<!-- Giới thiệu -->
+### Summary
+
+<!-- các kỹ năng -->
+### Technical Skills
+- Programming Languages: ![My Skills](https://skillicons.dev/icons?i=js,ts)
+- Frontend Frameworks and Libraries: ![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,redux,sass,bootstrap,styledcomponents)
+- Backend Technologies: ![My Skills](https://skillicons.dev/icons?i=nodejs)
+- Database Management: ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)
+- Tools: ![My Skills](https://skillicons.dev/icons?i=vscode,github,git,postman,docker,figma)
+
+<!-- Học -->
+### Education
+
+<!-- Dự án cá nhân -->
+### Personal Projects
+
+<!-- Thành tích -->
+### Awards and Honors
