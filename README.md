@@ -4,8 +4,6 @@
 
 - ***Email***: ngthanhtin68@gmail.com
 
-- ***PhoneNumber***: 0334127445
-
 <!-- Giới thiệu -->
 ### :triumph: Summary 
 Hello, I am a Frontend Developer. I have just started my career in frontend development and I am currently learning and researching about HTML, CSS, JavaScript, and popular frameworks such as React, Vue, Ui library. I am trying my best to learn and improve my programming skills.
