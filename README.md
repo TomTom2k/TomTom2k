@@ -33,10 +33,3 @@ I believe that I have a passion for programming and I will always try to find wa
 <!-- Thành tích -->
 ### :blue_book: Awards and Honors
 
-
-## đừng có phá
-ACCESS_KEY_ID = A_KI_A6G_BMHK_SENTJ_U2NTJ
-SECRET_ACCESS_KEY = /qrar!kSqcf@YEUyG#QTQ6t$JCpLH%I4z3h^7FbQa&zkjdD
-REGION = ap-southeast-2
-DYNOMODB_TABLE_NAME = Products
-S3_BUCKET_NAME = zalo-clone
